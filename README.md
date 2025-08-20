@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning about deep learning in ![Digital Talent Scholarship 2025](https://digitalent.komdigi.go.id/) by Pusat Pengembangan Talenta Digital KOMDIGI
+- 🌱 I’m currently learning about deep learning and in program with Digital Talent Scholarship 2025 by Pusat Pengembangan Talenta Digital KOMDIGI
